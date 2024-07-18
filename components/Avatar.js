@@ -6,7 +6,7 @@ const Avatar = () => {
     <div className="hidden xl:flex xl:max-w-none justify-end mt-20 mr-20">
       <div className="w-[500px] h-[500px]">
         <Image
-          src="/avatar.png"
+          src="/pulindi_portfolio/avatar.png"
           width={500}
           height={500}
           alt=""
