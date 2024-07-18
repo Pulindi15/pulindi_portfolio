@@ -5,11 +5,11 @@ const workSlides = {
       images: [
         {
           title: 'title',
-          path: '/thumb1.png',
+          path: '/{basePath}/thumb1.png',
         },
         {
           title: 'title',
-          path: '/thumb2.png',
+          path: '/{basePath}/thumb2.png',
           url : 'https://pulindi15.github.io/Artifical_Intelligence_Website/'
         },
         
@@ -19,7 +19,7 @@ const workSlides = {
       images: [
         {
           title: 'title',
-          path: '/thumb3.png',
+          path: '/{basePath}/thumb3.png',
           url : 'https://www.brandssarthi.com/'
         },
       ],
